@@ -6,3 +6,4 @@ amaka:x:1012:1012::/home/amaka:/bin/bash
 apache:x:48:48:Apache:/usr/share/httpd:/sbin/nologin
 ojo:x:1013:1017::/home/ojo:/bin/bash
 nginx:x:990:990:Nginx web server:/var/lib/nginx:/sbin/nologin
+the new president of nigeria
